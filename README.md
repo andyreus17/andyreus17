@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hello there!
 
+
+I'm Andrés Salazar, I live in Santiago de Chile.
 <!--
 **andyreus17/andyreus17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
